@@ -1,0 +1,14 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+.main-div{
+  height: 4rem;
+  background-color: rgb(231, 154, 154);
+  padding: 1.2rem;  
+  
+}
+.github-icon{
+  height: 4rem;
+  padding: 0 2rem;
+}
