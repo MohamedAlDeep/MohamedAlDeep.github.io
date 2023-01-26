@@ -2,6 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App'
 import ErrorPage from './assets/Pages/Route/error';
+import './GENERAL.css'
 
 import {createBrowserRouter, RouterProvider} from "react-router-dom";
 

@@ -1,5 +1,4 @@
-import Header from './assets/component/Header/Header'
-import Footer from './assets/component/Footer/Footer'
+import Header from './assets/component/Header/Header.jsx'
 
 function App() {
   
@@ -7,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <Footer />
+      
     </div>
   )
 }
