@@ -16,3 +16,11 @@ body{
 .github-icon{
   padding: 6px;
 }  
+
+@media(min-width: 370px){
+  .text-container-grid{
+    display: grid;
+    grid-template-columns: repeat(2, 50px);
+    gap: 2rem;
+  }
+}  
