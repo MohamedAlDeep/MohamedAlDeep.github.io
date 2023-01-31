@@ -17,3 +17,10 @@
   text-decoration: none;
   color: black;
 }
+@media(min-width: 370px){
+  .contacts-div{
+    display: grid;
+    grid-template-columns: repeat(2, 50px);
+    gap: 2rem;
+  }
+} 
