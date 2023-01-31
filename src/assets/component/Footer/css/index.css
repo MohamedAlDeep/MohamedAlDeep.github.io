@@ -6,8 +6,14 @@
 }
 .main-container{
   padding: 1.2rem;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
 }
 .twitter-icon{
   width: 4rem ;
   padding: .124rem;
+}
+.github-link{
+  text-decoration: none;
+  color: black;
 }

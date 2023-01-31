@@ -17,6 +17,11 @@ function Footer() {
               </a>
             </div>
           </div>
+          <div className="text">
+            <a className='github-link' href="https://github.com/MohamedAlDeep">
+              <h3>Github Profile</h3>  
+            </a>
+          </div>
         </div>
     </div>
   )
