@@ -4,6 +4,10 @@
   bottom: 0;
   width: 100%;
 }
+.main-container{
+  padding: 1.2rem;
+}
 .twitter-icon{
   width: 4rem ;
+  padding: .124rem;
 }
