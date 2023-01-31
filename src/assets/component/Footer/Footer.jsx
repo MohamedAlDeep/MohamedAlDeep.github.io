@@ -2,6 +2,7 @@ import React from 'react'
 import './css/index.css'
 import Twitter from '../../../../public/img/Twitter.png'
 import Gmail from '../../../../public/img/gmail.png'
+import Insta from '../../../../public/img/insta.png'
 
 function Footer() {
   return (
@@ -16,6 +17,9 @@ function Footer() {
                 <img className="twitter-icon" src={Gmail} alt="Email icon" />
               </a>
             </div>
+            <a href="https://instagram.com/mohamedeldeep">
+              <img className='twitter-icon' src={Insta} alt="Instagram icon" />
+            </a>
           </div>
           <div className="text">
             <a className='github-link' href="https://github.com/MohamedAlDeep">
