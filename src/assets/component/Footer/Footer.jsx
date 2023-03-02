@@ -13,7 +13,7 @@ function Footer() {
               <img className="twitter-icon" src={Twitter} alt="Twitter icon" />
             </a>
             <div className='Contacts'>
-              <a href="mailto: mohamedsamir22446688@gmail.com">
+              <a href="mailto: apps.main@hotmail.com">
                 <img className="twitter-icon" src={Gmail} alt="Email icon" />
               </a>
             </div>
